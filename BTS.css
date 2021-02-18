@@ -84,6 +84,12 @@ body {
 .welcome-content {
   align-self: center;
 }
+
+.welcome-content p {
+padding: 5% 3% 5% 0;
+line-height: 2;
+}
+
 @media only screen and (max-width: 900px) {
   .welcome-content {
     display: flex;
