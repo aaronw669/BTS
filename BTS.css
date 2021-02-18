@@ -91,9 +91,14 @@ body {
     text-align: center;
     justify-content: center !important;
   }
+  
   .btn-light {
     width: 50%;
     align-self: center;
+  }
+  
+ .welcome-img {
+  margin-left: 3%;
   }
 }
 
