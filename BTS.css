@@ -86,7 +86,7 @@ body {
 }
 
 .welcome-content p {
-  text-align: left;
+/*   text-align: left; */
   padding-top: 5%;
   padding-bottom: 5%;
   line-height: 2;
