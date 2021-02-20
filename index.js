@@ -10,7 +10,7 @@ $(window).scroll(function(){
       var _scrollTop = $this.offset().top;
       var _height = $this.innerHeight();
 
-      if(_scrollTop+_height/2 < currentScroll ){
+      if(_scrollTop+_height/3 < currentScroll ){
         if(! $this.hasClass("active")){
           $this.stop().addClass("active")
             .fadeTo(500, 1);        
